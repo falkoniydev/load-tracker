@@ -1,0 +1,52 @@
+{
+  "cargo": [
+    {
+      "id": "CARGO001",
+      "name": "Строительные материалы",
+      "status": "В пути",
+      "origin": "Москва",
+      "destination": "Казань",
+      "departureDate": "2024-12-10"
+    },
+    {
+      "id": "CARGO002",
+      "name": "Хрупкий груз",
+      "status": "Доставлен",
+      "origin": "Санкт-Петербург",
+      "destination": "Екатеринбург",
+      "departureDate": "2024-11-26"
+    },
+    {
+      "id": "f911",
+      "name": "sdafd",
+      "origin": "dass",
+      "destination": "asd",
+      "departureDate": "2024-01-12",
+      "status": "Ожидает отправки"
+    },
+    {
+      "id": "192b",
+      "name": "mnojbi",
+      "origin": "slfmoisn",
+      "destination": "posjidonun",
+      "departureDate": "0020-10-12",
+      "status": "В пути"
+    },
+    {
+      "id": "9c20",
+      "name": "cgvhjbknl",
+      "origin": "ygvhjbkn",
+      "destination": "vghbjknl",
+      "departureDate": "2004-12-12",
+      "status": "Ожидает отправки"
+    },
+    {
+      "id": "deea",
+      "name": "adsfdsgfhdgf",
+      "origin": "asfsdgfhd",
+      "destination": "sdfsdgfdh",
+      "departureDate": "2025-12-04",
+      "status": "Ожидает отправки"
+    }
+  ]
+}
